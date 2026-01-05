@@ -80,12 +80,8 @@ A few shots from the board run (LEDs reflecting the active state bits and inputs
 
 See the included PDF for the full write-up + all screenshots.
 
-## Report 
-
-The write-up + screenshots are in the included PDF above
-
 
 ## Demo video
 
-I also have a video uploaded above showing the project functioning.
+I also have a ![video](assets/asyncsm.mp4) uploaded above showing the project functioning.
 
